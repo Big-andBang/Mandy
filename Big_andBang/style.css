@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Sankofa+Display&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+background-color:#F8F8FF ;
+}
+.bardenav{
+    background-color:#191970 ;
+}
+.titulo{
+    font-size: 130px;
+    font-family: sankofa display;
+    color: #F8F8FF;
+    margin-left: 60px;
+}
+.subtitulo{
+    font-family: handjet;
+    color: #F8F8FF;
+    margin-left: 60px;
+}
+.secao{
+    display: flex;    
+}
+.divo{
+    border-radius: 3px;
+    padding: 20px;
+    background-color: antiquewhite;
+    box-shadow: ;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
